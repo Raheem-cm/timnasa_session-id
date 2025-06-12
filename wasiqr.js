@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let TREX_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-𝐈𝐓𝐒 𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐗𝐌𝐃 𝐁𝐎𝐓 
+𝐈𝐓𝐒 RAHEEM 𝐗𝐌𝐃 𝐁𝐎𝐓 
 𝐘𝐎𝐔 𝐀𝐑𝐄 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃
-> 𝐃𝐄𝐕 𝐑𝐀𝐇𝐌𝐀𝐍𝐈
+> 𝐃𝐄𝐕 RAHEEM
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐗𝐌𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
+RAHEEM 𝐗𝐌𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐏𝐀𝐆𝐄 = https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐏𝐀𝐆𝐄 = https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐕𝐈𝐀
-𝐌𝐘 𝐋𝐈𝐍𝐊?https://wa.me/255693629079?
+𝐌𝐘 𝐋𝐈𝐍𝐊?https://wa.me/255763111390?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐗𝐌𝐃*
+*RAHEEM 𝐗𝐌𝐃*
 _____________________________________
 	
 _DONT FORGET TO FORK AND STAR MY REPO_`
